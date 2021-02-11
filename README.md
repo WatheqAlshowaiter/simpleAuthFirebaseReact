@@ -1,3 +1,9 @@
+## Firebase Authintication with React
+
+- you should start a project in firebase.com then copy credentials to .env file to be able to start your project successfully
+
+- this code is based in this [tutorial video](https://www.youtube.com/watch?v=PKwu15ldZ7k).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
